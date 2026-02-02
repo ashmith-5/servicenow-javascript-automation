@@ -20,9 +20,13 @@ REST API integration support using JSON
 
 # Technologies Used
 JavaScript
+
 ServiceNow ITSM
+
 Flow Designer
+
 REST APIs
+
 JSON
 
 # Result
