@@ -9,9 +9,13 @@ This project demonstrates a JavaScript-based ServiceNow ITSM automation solution
 
 # Key Features
 Client Scripts for dynamic form validation and priority calculation.
+
 Business Rules for automatic incident assignment.
+
 Script Includes for reusable server-side logic
+
 Flow Designer automation for routing and notifications
+
 REST API integration support using JSON
 
 # Technologies Used
